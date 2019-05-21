@@ -17,11 +17,11 @@ title: MolSSI Software Summer School
 email: education@molssi.org
 description: >- # this means to ignore newlines until "baseurl:"
   A website for the 2019 MolSSI Software Summer School.
-repository: 2019-molssi-software-summer-school/logistics
-baseurl: "/logistics" # the subpath of your site, e.g. /blog
-url: "2019-molssi-software-summer-school.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: molssi-education/2019-software-summer-school-logistics
+baseurl: "/2019-software-summer-school-logistics" # the subpath of your site, e.g. /blog
+url: "molssi-education.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MolSSI_NSF
-github_username:  2019-molssi-software-summer-school
+github_username:  molssi-education
 
 # Build settings
 markdown: kramdown
