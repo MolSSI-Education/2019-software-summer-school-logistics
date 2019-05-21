@@ -8,13 +8,13 @@ layout: default
 ## Transportation
 
 ### Airport Shuttle Information
-Shuttle information here.
+Shuttle information will be added here.
 
 ### Shuttle Information
-Shuttle information (dorms -> class) provided here.
+Shuttle information (dorms -> class) will be provided here.
 
 ## Parking
-Parking information here
+Parking information will be provided here.
 
 ---
 
