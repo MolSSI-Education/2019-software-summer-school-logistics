@@ -27,6 +27,7 @@ Classes start each day at 9:00am and ends at 5:00pm, with lunch roughly from 12:
 **July 22, 2019**      Introduction to Python and Domain Specific Projects
 - *Lead Instructor:* Jessica Nash
 - *Co Instructors:* Eliseo Marin-Rimoldi, Jonathan Moussa, Emiliano Deustua
+- ***Special Event:*** Tour of TACC Data Center and Visualization Lab, Dr. Dan Stanzione, TACC Executive Director
 
 
 **July 23, 2019**     Python project structure and coding style
