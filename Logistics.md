@@ -23,6 +23,10 @@ Parking information will be provided here.
 ## Residence Hall Information
 Lodging will be provided to students in [Carothers Residence Hall](http://housing.utexas.edu/halls/carothers) (2501 Whitis Ave, Austin, TX 78705). Students will have roommates. If you have a preferred roommate, you may request that person when registering.
 
+You may check in on July 21 between the hours of 8 AM and 11 PM.
+
+A fitted sheet, top sheet, pillow and blanked will be provided for each bed. <b>Attendees should pack their own towels and toiletries as these will not be provided.</b> Laundry facilities are in the building, and are free to use (you must provide your own soap). Each room also has a microfridge. Free wifi is available in the dorms through the UT GUEST network.
+
 ## Meal information
 Each participant will be provided with a meal card for use on campus for breakfast and dinners. Lunch will be provided each day at TACC.
 ---
