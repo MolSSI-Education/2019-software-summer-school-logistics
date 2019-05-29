@@ -30,7 +30,7 @@ Classes start each day at 9:00am and ends at 5:00pm, with lunch roughly from 12:
 - ***Special Event:*** Tour of TACC Data Center and Visualization Lab, Dr. Dan Stanzione, TACC Executive Director
 
 
-**July 23, 2019**     Python project structure and coding style
+**July 23, 2019**     GitHub workflows, unit testing, and Python coding style 
 - *Lead Instructor:* Jessica Nash
 - *Co Instructors:* Eliseo Marin-Rimoldi, Jonathan Moussa, Emiliano Deustua
 
@@ -38,7 +38,7 @@ Classes start each day at 9:00am and ends at 5:00pm, with lunch roughly from 12:
 - *Lead Instructor:* Doaa Altarawy
 - *Co Instructors:* Samuel Ellis, Jessica Nash
 
-**July 25, 2019**      Code Services and GitHub Workflows
+**July 25, 2019**      Python Project Structure and Code Services
 - *Lead Instructor:* Jessica Nash
 - *Co Instructors:* Doaa Altarawy, Sam Ellis, Marc Riera-Rimbau
 
