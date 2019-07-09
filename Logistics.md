@@ -8,7 +8,11 @@ layout: default
 ## Transportation
 
 ### Airport Shuttle Information
-Shuttle information will be added here.
+The Capital Metro provides a bus (Metro Bus 20) from Austin-Bergstrom International Airport to the UT Austin campus with service every 15 minutes. The Guadalupe/Dean Keaton Stop on this route arrives very close to Kinsolving Residence Hall (about 0.1 miles). The fare is $1.25 for a single ride or $2.50 for a day pass. You can buy passes on the bus, or can purchase a Local Day Pass in in advance [online](https://marketplace.bytemark.co/marketplace/cmta#event=0c6b57ea-7690-11e3-b180-0ee258328347). In fact, if you plan to travel around Austin a lot during your stay, you might consider getting a 7 day pass.
+
+See the route on Google Maps [here](http://bit.ly/airport-dorm-bus), or on the [Metro Trip Planner](https://capmetro.org/planner/?#!P|TP!S|AUSTIN%20BERGSTROM%20INTERNATIONAL%20AIRPORT!Z|Guadalupe/Dean%20Keeton,%20Stop%20ID%20599!start|yes!date|20190721!time|080300). 
+
+More information on Austin Bus Service can be found at [this website](https://www.capmetro.org/).
 
 ### Shuttle Information
 Shuttle information (dorms -> class) will be provided here.
