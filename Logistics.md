@@ -21,7 +21,7 @@ Parking information will be provided here.
 ## Lodging and Food
 
 ## Residence Hall Information
-Lodging will be provided to students in [Carothers Residence Hall](http://housing.utexas.edu/halls/carothers) (2501 Whitis Ave, Austin, TX 78705). Students will have roommates. If you have a preferred roommate, you may request that person when registering.
+Lodging will be provided to students in [Kinsolving Residence Hall](http://housing.utexas.edu/halls/kinsolving) (2605 Whitis Ave, Austin, TX 78705). Students will have roommates. If you have a preferred roommate, you may request that person when registering.
 
 You may check in on July 21 between the hours of 8 AM and 11 PM.
 
