@@ -55,7 +55,7 @@ Classes will be held at the Texas Advanced Computing Center. A shuttle will be p
 ---
 **July 27, 2019**      Weekend - Participants on their own
 
-**July 28, 2019**      Weekend - Social Event - To Be Announced
+**July 28, 2019**      Weekend - Social Event - The Punch Bowl (11310 Domain Drive, Austin, TX). See [Logistics Page](https://molssi-education.github.io/2019-software-summer-school-logistics/Logistics.html) for more information
 
 <br>
 <center><h3>Week 2</h3></center>
