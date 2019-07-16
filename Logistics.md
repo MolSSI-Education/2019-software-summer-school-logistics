@@ -15,10 +15,12 @@ See the route on Google Maps [here](http://bit.ly/airport-dorm-bus).
 More information on Austin Bus Service can be found at [this website](https://www.capmetro.org/).
 
 ### Shuttle Information
-Shuttle information (dorms -> class) will be provided here.
+A daily shuttle will pick students up in front of the Kinsolving Residence Hall on Whitis Avenue every morning starting at 8 AM. The shuttle will depart promptly at 8:30 AM for the Texas Advanced Computing Center.
+
+In the evenings, the shuttle will pick up students from TACC at 5:15 pm and return to the dorms.
 
 ## Parking
-Parking information will be provided here.
+Parking passes will be provided to students who requested them. We are still finalizing parking details.
 
 ---
 
