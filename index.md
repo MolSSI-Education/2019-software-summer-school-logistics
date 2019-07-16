@@ -76,4 +76,5 @@ Classes will be held at the Texas Advanced Computing Center. A shuttle will be p
 - *Co Instructors:* Daniel Smith, Taylor Barnes, Mojtaba Haghighatlar
 
 
-**August 1, 2019**  Last day for student departure
+**August 1, 2019**  No Class
+Last day for student departure
