@@ -14,7 +14,9 @@ optimization.
 <br>
 <center><h1>Agenda</h1></center>
 
-Classes start each day at 9:00am and ends at 5:00pm, with lunch roughly from 12:00-1:00pm, plus morning and afternoon coffee breaks at approximately 10:30 am and 3:00pm. Sessions will consist of lectures and hands-on exercises. All classes will be held at 10100 Burnet Rd, Austin, TX 78758. A shuttle will be provided for students each morning and evening to transport them from housing on UT Austin's campus to the location.
+Classes start each day at 9:00am and ends at 5:00pm, with lunch roughly from 12:00-1:00pm, plus morning and afternoon coffee breaks at approximately 10:30 am and 3:00pm. Sessions will consist of lectures and hands-on exercises. **All students must bring their own laptops to complete the exercises.**
+
+Classes will be held at the Texas Advanced Computing Center. A shuttle will be provided for students each morning and evening to transport them from housing on UT Austin's campus to the location (see Logistics Page).
 
 ---
 
