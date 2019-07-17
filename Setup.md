@@ -109,9 +109,51 @@ conda install numpy
 conda install matplotlib
 ```
 
-
 Throughout the week, we will ask you to install different packages into this environment.
 
+## Installing and configuring git <a name="git_configuration"></a>
+
+### Installation
+Install git in your `sss_2019` environment using this command.
+
+~~~
+conda activate sss_2019
+conda install git
+~~~
+
+### Configuring Git
+
+The first time you use Git on a particular computer, you need to configure some things.
+
+First, you should set your identity.
+One of the most important things that version control like Git does is to keep track of who changes what.
+This helps repository maintainers coordinate the efforts of all the people who contribute to the project.
+Most importantly, it makes it easier to figure out who to blame when something goes wrong.
+You can provide git your name and contact information with the following commands:
+
+~~~
+git config --global user.name "<Firstname> <Lastname>"
+git config --global user.email "<email address>"
+~~~
+
+Next, you might want to change the Git text editor.
+As we will see later, certain Git commands will open text files.
+When this happens, Git will use your environment's default text editor, which might not be the editor you are most comfortable using.
+Using configuration commands, you can tell Git to use your favorite editor.
+
+Everyone can use Vim as a text editor, but you can set it to your preference. **If you are using the WSL, use Vim as your text editor**:
+
+~~~
+$ git config --global core.editor "vim"
+~~~
+
+A more complete list of possible editors is available [here](http://swcarpentry.github.io/git-novice/02-setup/index.html).
+
+You can check the configuration commands that you have set using:
+
+~~~
+git config --list
+~~~
 
 ## Text Editor/IDE
 Everyone should have a text editor they can use to edit Python. If you do not have a preference for text editors, we recommend Atom if you would like something basic, or Visual Studio Code if you would like a more advanced editor.
