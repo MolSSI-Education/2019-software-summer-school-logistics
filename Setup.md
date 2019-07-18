@@ -107,6 +107,7 @@ Next, install the Python libraries numpy and matplotlib
 ```
 conda install numpy
 conda install matplotlib
+conda install jupyter
 ```
 
 Throughout the week, we will ask you to install different packages into this environment.
