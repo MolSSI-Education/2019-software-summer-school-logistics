@@ -156,7 +156,7 @@ git config --list
 ~~~
 
 ## Text Editor/IDE
-Everyone should have a text editor they can use to edit Python. If you do not have a preference for text editors, we recommend Atom if you would like something basic, or Visual Studio Code if you would like a more advanced editor.
+Everyone should have a text editor they can use to edit Python. If you do not have a preference for text editors, we recommend [Atom](https://atom.io/) if you would like something basic, or [Visual Studio Code](https://code.visualstudio.com/) if you would like a more advanced editor.
 
 ## Computer Help
 Please attempt the above installation before arriving. If you have trouble with installation, computer help will be available at your dorm on July 21, 2019 (the Sunday you arrive) from 6:00 PM - 7:30 PM. We will be near the check-in desk. If you are not able to install the software, and are also not able to come for help, please send an email so we can help you!
