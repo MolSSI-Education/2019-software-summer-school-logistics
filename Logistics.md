@@ -20,7 +20,9 @@ A daily shuttle will pick students up in front of the Kinsolving Residence Hall 
 In the evenings, the shuttle will pick up students from TACC at 5:15 pm and return to the dorms.
 
 ## Parking
-Parking passes will be provided to students who requested them. We are still finalizing parking details.
+Students who requested parking on campus will recieve a parking pass when they check-in at the dorms.
+
+The passes are for spaces in the [San Antonio Garage](http://bit.ly/32E6kTd). The parking pass must be scanned to enter and exit the garage. You must display the permit on the dashboard of your car while parked.
 
 ---
 
@@ -35,6 +37,23 @@ A fitted sheet, top sheet, pillow and blanked will be provided for each bed. <b>
 
 ## Meal information
 Each participant will be provided with a meal card for use on campus for breakfast and dinners. Lunch will be provided each day at TACC.  
+
+Meal Cards may be used at the following locations. Click the location name to see it on google maps.
+
+| Location | Monday - Wednesday | Thursday | Friday | Weekend
+| ---------|--------------------|----------|--------|---------|
+[LITTLEFIELD PATIO CAFÉ](https://www.google.com/maps/place/Littlefield+Patio+Cafe/@30.2892825,-97.7416213,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b582bf7b5f87:0x69be498ea2d6469f!8m2!3d30.2892825!4d-97.7394273) |	7A-3P	| 7A-3P	 | 7A-3P| 	CLOSED |
+[JESTER CITY LIMITS](https://www.google.com/maps/place/Jester+City+Limits/@30.2828076,-97.7389692,17z/data=!4m12!1m6!3m5!1s0x8644b59c1107b53f:0xf6cf4a666d84c988!2sJester+City+Limits!8m2!3d30.2828076!4d-97.7367752!3m4!1s0x8644b59c1107b53f:0xf6cf4a666d84c988!8m2!3d30.2828076!4d-97.7367752)	| 7A-7P	| 7A-2P |	7A-2P | CLOSED	|
+[JESTER CITY MARKET](https://www.google.com/maps/place/Jester+City+Market/@30.2829077,-97.7369718,15z/data=!4m5!3m4!1s0x0:0x1a9c0fe2ff9a35c1!8m2!3d30.2829077!4d-97.7369718)	| 8A-7P	|10A-7P |	9A-2P |	CLOSED	|CLOSED
+BLISS |	10A-6P |CLOSED| 	CLOSED |	CLOSED	| CLOSED
+JESTA' TEXAS STORE |	10A-5P |	10A-5P	|10A-2P |	CLOSED	| CLOSED
+[JESTER JAVA](https://www.google.com/maps/place/Jester+Java/@30.2829586,-97.7369369,15z/data=!4m5!3m4!1s0x0:0xb37b321153d978c7!8m2!3d30.2829586!4d-97.7369369)	| 7A-2P|	7A-2P|	7A-2P	|CLOSED	|CLOSED
+[J2](https://www.google.com/maps/place/Jester+Second+Floor+Dining/@30.282826,-97.736895,15z/data=!4m2!3m1!1s0x0:0x5f36f99f7a4e997?sa=X&ved=2ahUKEwjDx8TltMbjAhVRUK0KHb7VCbEQ_BIwHnoECAcQCA)|	 7A-8:30A, 11A-1:30P, 5P-7P | 7A-8:30A, 11A-1:30P, 5P-7P| 7A-8:30A, 11A-1:30P, 5P-7P | 11:30A-1:30P 5P-7P 
+[CYPRESS BEND](https://www.google.com/maps/place/Cypress+Bend/@30.2829066,-97.7344861,15z/data=!4m2!3m1!1s0x0:0xbb45a084320d0d24?sa=X&ved=2ahUKEwiy-MyPtcbjAhUHCawKHcuDDjoQ_BIwCnoECA0QCA) |	7A-2P |	7A-2P | 7A-2P | CLOSED
+
+The Littlefield Patio Cafe is the closet dining option to the dorms, and is probably where you will want to eat breakfast before classes.
+
+On the weekend, bagels and coffee from Panera will be provided in the dorms.
 
 ## Social Event Shuttle
 There will be an evening social at the Punch Bowl (11310 Domain Drive, Austin, TX) on Sunday, July 28. The shuttle will pick students up at Kinsolving Residence Hall on Whitis Avenue at 5:15pm for the social from 6pm-8pm. Appetizers, non-alcoholic drinks, games and activities will be provided. The shuttle will pick up at 8pm to return to the dorm. 
