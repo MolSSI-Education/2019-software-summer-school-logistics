@@ -29,7 +29,7 @@ bash Anaconda3-2019.03-Linux-x86_64.sh
 After installation, close and reopen your terminal window. If you do not see (base) before your username on the command line, type
 
 ```
-conda init bash
+conda init
 ```
 
 then close and reopen your terminal window.
