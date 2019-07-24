@@ -36,6 +36,8 @@ header_pages:
   - Logistics.md
   - Setup.md
   - Links.md
+  - MM.md
+  - QM.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
